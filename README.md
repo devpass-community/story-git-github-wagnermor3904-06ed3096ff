@@ -1,3 +1,3 @@
-## Contributors
+# Contributors
 
 - Wagner Moreira da Silva
